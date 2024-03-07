@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/","title":"Kubernetes"}
+{"dg-publish":true,"permalink":"/kubernetes/","title":"Kubernetes","created":"2024-02-28T15:03:46.010+08:00","updated":"2024-03-06T19:57:48.152+08:00"}
 ---
 
 # 安装
