@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/lnmp/lnmp/","title":"LNMP","created":"2024-01-22T16:44:49.994+08:00","updated":"2024-03-07T11:09:01.244+08:00"}
+{"dg-publish":true,"permalink":"/lnmp/lnmp/","title":"LNMP","created":"2024-01-22T16:44:49.994+08:00","updated":"2024-03-07T11:31:05.144+08:00"}
 ---
 
 # Linux
 
-## 安装工具
+## 安装工具1
 
 > Centos
 
